@@ -1,0 +1,73 @@
+*{
+    background-color: rgb(196, 226, 242);
+    justify-content: center;
+}
+.ch{
+    justify-self: center;
+}
+.card{
+    justify-content: center;
+}
+.newcard{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 20px;
+    height: 90vh;
+    width: 400px;
+    
+    margin-top: 50px;
+    
+
+}
+img{
+    height: 300px;
+    width: 390px;
+    padding: 2px;
+    background-color: inherit;
+    transform: translate(2px);
+    border: 1px solid white;
+    border-radius: 20px;
+
+}
+div.small{
+    border-radius: 20px;
+    border: 1px solid rgb(207, 203, 203);
+    display: inline-block;
+    background-color: inherit;
+    color: rgb(207, 203, 203);
+    font-size: 14px;
+    padding: 4px;
+    margin-left: 10px;
+}
+h1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: inherit;
+    margin-left: 10px;
+    
+}
+p{
+    background-color: inherit;
+    margin-left: 10px;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+
+}
+
+button{    
+    border-radius: 20px;
+    border: 1px solid lightblue;
+    padding: 5px;
+    color: rgb(4, 4, 250);
+    justify-self: center;
+    margin-left:150px; 
+    background-color: lightblue;
+}
+a{    
+    
+    padding: 5px;
+    color: rgb(4, 4, 250);
+    
+    background-color: inherit;
+}
